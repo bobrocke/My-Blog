@@ -11,9 +11,10 @@ categories:
 tags: [Laugo Arms Alien]
 ---
 I've started back shooting a [Laugo Arms Alien](https://laugoarmsusa.com) pistol and I still like it. These pistols are a niche firearm that offer a unique design not found together in any other current pistol that I know of. And if you have had a chance to shoot one, you'll know exactly what I mean by unique.
-<!--more-->
 
-[![The Alien Pistol](/assets/wp-content/uploads/2024/05/Laugo-Arms-Alien-Magwell-Left-Side-1024x683.png)](/assets/wp-content/uploads/2024/05/Laugo-Arms-Alien-Magwell-Left-Side.png)The Alien Pistol
+[![The Alien Pistol](/assets/wp-content/uploads/2024/05/Laugo-Arms-Alien-Magwell-Left-Side.png)](/assets/wp-content/uploads/2024/05/Laugo-Arms-Alien-Magwell-Left-Side.png)The Alien Pistol
+
+![The Alien Pistol](/assets/wp-content/uploads/2024/05/Laugo-Arms-Alien-Magwell-Left-Side.png){: glightbox}
 
 Several years ago I owned two Alien Full Kits - one fired and one unfired. I very much liked the way the gun handled and shot. But I was concerned about the pistol’s longer term viability in the US both in terms of spare part availability and continued service ([Lancer Systems](https://lancer-systems.com/product-category/laugo/) was handling both as the US distributor for Laugo Arms at the time). So I sold them. That was a mistake.
 
@@ -31,7 +32,7 @@ The Alien's recoil is 'different.' Most of the recoil energy comes straight back
 
 Although the pistol looks like a striker-fired gun from the outside, it's really hammer fired. The hammer is up in the top rail and pivots down to strike the firing pin. So the trigger feels more like a hammer fired trigger – almost no take-up, no creep, and then a very crisp 3 ½# release. If the trigger didn't pivot from the top, you'd think it was a 1911 trigger; it's that clean and crisp.
 
-![](/assets/wp-content/uploads/2024/05/SB.jpg)
+![S&B Ammo](/assets/wp-content/uploads/2024/05/SB.jpg)
 
 I did mention disadvantages. The primary one derives from the clever gas delayed blow back design. The gun is **_very_** picky about the ammunition it likes. It wants FMJ bullets and clean powder. [Sellier & Bellot 124gr FMJ ammunition](https://www.sellierbellot.us/products/pistol-and-revolver-ammunition/pistol-and-revolver-cartridges/detail/286/) is the factory ammo to choose because that's what the pistol was designed around (both Laugo Arms and Sellier & Bellot are Czech companies, after all).
 
