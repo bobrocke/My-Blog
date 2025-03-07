@@ -1,5 +1,4 @@
 ---
-layout: posts
 permalink: /pistols/competition-pistols/the-competitor/
 title: The Competitor
 date: 2024-01-17 18:56:55 -0000
@@ -12,7 +11,7 @@ tags: [M&P Competitor]
 ---
 The M&P Competitor, that is. After IPSC Nationals in November of 2023, I got started practicing and shooting matches with the M&P Competitor. That has worked out pretty well.
 
-![M&P Competitor](/assets/wp-content/uploads/2023/10/Competitor-L.png){: w="400px" .right}
+![M&P Competitor](/assets/wp-content/uploads/2023/10/Competitor-L.png){: .align-right}
 
 It's a lighter gun (30oz) than I've been shooting (43oz) and offers the pros and cons of that weight reduction. As has been reported by many, the lighter gun is easier to manipulate (drawing, transitioning, reloading, and so on) but doesn't settle as well on longer or more difficult targets. There's a trade off; but that trade off seems to work for me.
 

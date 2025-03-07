@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Alien Ammo
 date: 2024-06-05 13:20:41 -0000
 last_modified_at: 2024-06-05 13:20:41 -0000
@@ -11,7 +10,7 @@ tags: [Laugo Arms Alien]
 ---
 Perhaps the most important thing to control for reliable operation of the Alien pistol is the ammunition used. Because of the gas system that delays blowback, the wrong ammo will lead to unnecessary buildup and finally, failure to cycle the slide.
 
-![](/assets/wp-content/uploads/2024/05/b_u_bullets_9124grjhprnv2_1_2.jpg){: w="400px" .right}
+![](/assets/wp-content/uploads/2024/05/b_u_bullets_9124grjhprnv2_1_2.jpg)
 
 The gun was designed around [Sellier & Bellot 124gr FMJ ammunition](https://www.sellierbellot.us/products/pistol-and-revolver-ammunition/pistol-and-revolver-cartridges/detail/286/); so that's a good place for most people to start. But as good as that ammo is, the bottom of the bullet still has exposed lead. And lead in the gas cylinder is deadly for performance. If you reload your own ammo, you can step up to a bullet that is fully enclosed such as [Delta Precision 124gr JHP](https://www.precisiondelta.com/products/9mm-124gr-jhp-v2/), [Everglades 124gr JHP RN](https://www.evergladesammo.com/bullets/handgun-bullets/9mm-124gr-jhp-rn-v2.html), or [Montana Gold 124gr CMJ](https://montanagoldbullet.com/9mm-124gr-cmj-3-750ct-case/).
 

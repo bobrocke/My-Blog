@@ -1,5 +1,4 @@
 ---
-layout: posts
 permalink: /pistols/competition-pistols/an-alien-pistol/
 title: An Alien Pistol
 date: 2024-06-01 15:11:18 -0000
