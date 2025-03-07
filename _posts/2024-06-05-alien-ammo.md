@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Alien Ammo
 date: 2024-06-05 13:20:41 -0000
 last_modified_at: 2024-06-05 13:20:41 -0000

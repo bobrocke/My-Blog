@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 permalink: /pistols/competition-pistols/the-competitor/
 title: The Competitor
 date: 2024-01-17 18:56:55 -0000
