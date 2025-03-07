@@ -3,3 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+.nova
+jekyll_notes.txt
+default_config.yml
+.ruby_version
